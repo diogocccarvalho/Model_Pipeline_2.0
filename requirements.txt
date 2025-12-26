@@ -1,0 +1,5 @@
+marker-pdf
+transformers
+torch
+sentencepiece
+protobuf
